@@ -1,4 +1,4 @@
-Here’s a curated list of over 100 JavaScript problems, categorized from basic to advanced difficulty, covering key JavaScript concepts, modern features, and topics relevant to the current market scenario:
+A curated list of over 100 JavaScript problems, categorized from basic to advanced difficulty, covering key JavaScript concepts, modern features, and topics relevant to the current market scenario:
 
 ### **Basic (1-20): Introduction to JavaScript and Core Syntax**
 1. Write a function to check if a number is odd or even.
