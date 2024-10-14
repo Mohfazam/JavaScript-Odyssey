@@ -156,3 +156,37 @@ Promise:22. Write a function that wraps a callback-based function into a promise
 Promise:23. Create a utility function that converts a promise to use `async/await`.  
 Promise:24. Build a function that creates a cancellable promise.  
 Promise:25. Write a function that retries a promise-based operation with progressive delays on failure.
+
+### Async/Await JavaScript Problems
+
+#### Easy (Async: 1-5)
+
+1. **Async:1**. Create an async function that waits for 2 seconds before resolving.
+2. **Async:2**. Write an async function that fetches data from an API and logs the response.
+3. **Async:3**. Convert a promise-based function to use `async/await`.
+4. **Async:4**. Create an async function that handles errors using `try/catch`.
+5. **Async:5**. Write an async function that processes an array of promises sequentially using `for-await-of`.
+
+#### Intermediate (Async: 6-10)
+
+6. **Async:6**. Implement a function that waits for multiple async operations to complete using `Promise.all()` and `async/await`.
+7. **Async:7**. Write an async function that fetches data from multiple APIs in sequence and logs the combined result.
+8. **Async:8**. Create an async function that retries fetching data from an API up to three times on failure.
+9. **Async:9**. Implement a function that processes an array of items in parallel using `async/await` and `Promise.all()`.
+10. **Async:10**. Write an async function that times out and rejects if an API request takes too long to respond.
+
+#### Advanced (Async: 11-15)
+
+11. **Async:11**. Build an async function that fetches data from multiple APIs and cancels all remaining requests once the first one resolves using `Promise.race()`.
+12. **Async:12**. Write an async function that processes large datasets in chunks and waits for each chunk to complete before proceeding.
+13. **Async:13**. Implement a function that uses `async/await` to handle both resolved and rejected async operations in a single `try/catch` block.
+14. **Async:14**. Create an async function that automatically retries failed API requests with exponential backoff.
+15. **Async:15**. Write a utility function that throttles API requests using `async/await` to ensure only a set number of requests are sent concurrently.
+
+#### Expert (Async: 16-20)
+
+16. **Async:16**. Build a task queue that processes async tasks sequentially, using `async/await` and `Promise.all()`.
+17. **Async:17**. Implement a function that batches async API requests and processes them in groups of 5, waiting for each group to complete before proceeding.
+18. **Async:18**. Write a custom `Promise.all()` polyfill that works with `async/await`.
+19. **Async:19**. Create an async function that cancels an ongoing request if it exceeds a certain time limit, using `AbortController` and `async/await`.
+20. **Async:20**. Write a custom utility to debounce async operations with dynamic delays using `async/await`.
