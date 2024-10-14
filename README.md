@@ -120,3 +120,39 @@ A curated list of over 100 JavaScript problems, categorized from basic to advanc
 109. Explore BigInt and use it to perform high-precision calculations.
 110. Build a custom hook in React (if learning React) to manage state and side effects.
 
+### **Promise-Based JavaScript Problems:**
+
+#### **Easy (111-115): Introduction to Promises**
+111. Create a promise that resolves with a message after a 2-second delay.
+112. Write a function that returns a promise which resolves to the sum of two numbers.
+113. Convert a callback-based function to use promises.
+114. Implement a function that handles both resolved and rejected promises using `.then()` and `.catch()`.
+115. Write a function to fetch data from an API and return a promise.
+
+#### **Intermediate (116-120): Chaining Promises**
+116. Write a function that chains multiple promises together and logs the result after all are resolved.
+117. Create a function that fetches user data from two different APIs in sequence using promises.
+118. Implement a promise-based function that resolves after fetching data from multiple APIs using `Promise.all()`.
+119. Write a function that retries fetching data from an API up to three times if it fails.
+120. Implement a promise-based timeout function that rejects if the operation takes longer than 5 seconds.
+
+#### **Advanced (121-125): Async/Await and Error Handling**
+121. Write an async function that waits for multiple promises to resolve using `Promise.all()` and logs the results.
+122. Implement a function that uses `async/await` to fetch data from an API and handles errors with `try/catch`.
+123. Create a function that fetches data from an API and retries a failed request three times using `async/await`.
+124. Write an async function that processes an array of items in parallel and logs the results.
+125. Implement a function that fetches data from multiple APIs and cancels the request if it takes too long.
+
+#### **Expert (126-130): Promise Optimization and Real-World Use Cases**
+126. Write a function that implements an exponential backoff strategy when retrying a failed promise.
+127. Create a function that throttles API requests using promises to ensure only a set number of requests happen concurrently.
+128. Build a promise-based task queue that processes tasks sequentially, even if the tasks themselves are asynchronous.
+129. Write a function that uses `Promise.race()` to handle multiple API requests and return the result of the fastest one.
+130. Implement a promise-based batching mechanism that sends multiple requests in batches of 5 and waits for all of them to complete before proceeding.
+
+#### **Bonus (131-135): Advanced Concepts and Promise Utilities**
+131. Implement a custom `Promise.all()` polyfill.
+132. Write a function that wraps a callback-based function into a promise and provides both `resolve` and `reject` logic.
+133. Create a utility function that converts a promise to use `async/await`.
+134. Build a function that creates a cancellable promise.
+135. Write a function that retries a promise-based operation with progressive delays on failure.
