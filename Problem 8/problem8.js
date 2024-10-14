@@ -18,3 +18,21 @@ for(let i = 0; i <= 100; i++){
     console.log(i);
 }
 
+
+
+// approach 2
+for(let i = 0; i <= 100; i++){
+    let output = "";
+    if(i % 3 === 0){
+        output += "Fizz";
+    }
+    if(i % 5 === 0){
+        output += "Buzz";
+    }
+    if(i % 5 === 0 && i % 3 === 0){
+        output += "FizzBuzz";
+    }
+
+    console.log(output || i);
+    
+}
