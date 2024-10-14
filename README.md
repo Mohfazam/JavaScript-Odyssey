@@ -1,7 +1,7 @@
 A curated list of over 100 JavaScript problems, categorized from basic to advanced difficulty, covering key JavaScript concepts, modern features, and topics relevant to the current market scenario:
 
 ### **Basic (1-20): Introduction to JavaScript and Core Syntax**
-1. Write a function to check if a number is odd or even. -[x] 
+1. Write a function to check if a number is odd or even. -[x] .
 -[x] 2. Create a program to find the largest of three numbers. 
 -[x] 3. Reverse a string. 
 -[x] 4. Write a function to capitalize the first letter of each word in a string. 
