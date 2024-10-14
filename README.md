@@ -8,7 +8,7 @@ A curated list of over 100 JavaScript problems, categorized from basic to advanc
 5. Implement a function to count vowels in a given string. :white_check_mark:
 6. Write a function to remove duplicates from an array. :white_check_mark:
 7. Create a function that returns the factorial of a number. :white_check_mark:
-8. Implement FizzBuzz: Print numbers 1-100, replacing multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both with "FizzBuzz"
+8. Implement FizzBuzz: Print numbers 1-100, replacing multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both with "FizzBuzz" :white_check_mark:
 9. Check if a number is prime.
 10. Write a function to flatten a nested array.
 11. Sum the digits of a number until the sum becomes a single digit.
