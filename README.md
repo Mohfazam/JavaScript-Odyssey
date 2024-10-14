@@ -2,11 +2,11 @@ A curated list of over 100 JavaScript problems, categorized from basic to advanc
 
 ### **Basic (1-20): Introduction to JavaScript and Core Syntax**
 1. Write a function to check if a number is odd or even. :white_check_mark:
--[x] 2. Create a program to find the largest of three numbers. 
--[x] 3. Reverse a string. 
--[x] 4. Write a function to capitalize the first letter of each word in a string. 
--[x] 5. Implement a function to count vowels in a given string. 
--[x] 6. Write a function to remove duplicates from an array. 
+2. Create a program to find the largest of three numbers. :white_check_mark:
+3. Reverse a string. :white_check_mark:
+4. Write a function to capitalize the first letter of each word in a string. :white_check_mark:
+5. Implement a function to count vowels in a given string. :white_check_mark:
+6. Write a function to remove duplicates from an array. :white_check_mark:
 7. Create a function that returns the factorial of a number.
 8. Implement FizzBuzz: Print numbers 1-100, replacing multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both with "FizzBuzz."
 9. Check if a number is prime.
