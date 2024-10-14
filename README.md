@@ -124,7 +124,7 @@ A curated list of over 100 JavaScript problems, categorized from basic to advanc
 
 #### **Easy (Promise: 1-5)**
 Promise:1. Create a promise that resolves with a message after a 2-second delay. :white_check_mark:
-Promise:2. Write a function that returns a promise which resolves to the sum of two numbers.  
+Promise:2. Write a function that returns a promise which resolves to the sum of two numbers. :white_check_mark:
 Promise:3. Convert a callback-based function to use promises.  
 Promise:4. Implement a function that handles both resolved and rejected promises using `.then()` and `.catch()`.  
 Promise:5. Write a function to fetch data from an API and return a promise.
